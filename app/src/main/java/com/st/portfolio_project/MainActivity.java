@@ -1,5 +1,6 @@
 
 // Updated directly from GitHub Web
+// Updated locally from Android Studio
 package com.st.portfolio_project;
 
 import android.content.Intent;
