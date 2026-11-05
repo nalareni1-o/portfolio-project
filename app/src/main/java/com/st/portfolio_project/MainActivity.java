@@ -1,4 +1,4 @@
-// Version modified locally in Android Studio
+// Conflict test from WEB
 package com.st.portfolio_project;
 
 import android.content.Intent;
