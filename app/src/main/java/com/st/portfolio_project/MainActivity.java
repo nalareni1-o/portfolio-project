@@ -1,4 +1,4 @@
-// Version modified on GitHub Web
+// Version modified locally in Android Studio
 package com.st.portfolio_project;
 
 import android.content.Intent;
